@@ -66,7 +66,7 @@ TinySQL is under the Apache 2.0 license. See the [LICENSE](./LICENSE) file for d
 1. 09/22/2021
     - Read the inital documents
     - Finish Project 1
-    - Project 1 refers to the implementation of functions $DecodeKeyHead(key kv.Key)$ and $DecodeRowKey(key kv.Key)$ in tablecodec.go
+    - Project 1 refers to the implementation of functions **DecodeKeyHead(key kv.Key)** and **DecodeRowKey(key kv.Key)** in tablecodec.go
 
     ![Test Results](https://github.com/gaoyuanning/tinysql/blob/course/imgs/readme/project1_test.png)
 
