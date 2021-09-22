@@ -60,3 +60,7 @@ Contributions are welcomed and greatly appreciated. See [CONTRIBUTING.md](https:
 ## License
 
 TinySQL is under the Apache 2.0 license. See the [LICENSE](./LICENSE) file for details.
+
+## Course Record
+
+1. Start on 9/22/2021
